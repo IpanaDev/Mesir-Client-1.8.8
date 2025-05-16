@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+
+public <modules>  = (anti knock back | critical | aura | blink | damage | no rotate | ping spoof | teleport | fly | no slow down | phase | scaffold | speed | sprint | step | water walk | chest stealer | quick use | brightness | camera | name tags | no hurt);

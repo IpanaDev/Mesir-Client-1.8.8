@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=down,map=false": { "model": "item_frame" },
+    "facing=up,map=false": { "model": "item_frame" },
+    "facing=east,map=false": { "model": "item_frame", "y": 90 },
+    "facing=west,map=false": { "model": "item_frame", "y": 270 },
+    "facing=south,map=false": { "model": "item_frame", "y": 180 },
+    "facing=north,map=false": { "model": "item_frame", "y": 0 },
+    "facing=down,map=true": { "model": "item_frame_map" },
+    "facing=up,map=true": { "model": "item_frame_map" },
+    "facing=east,map=true": { "model": "item_frame_map", "y": 90 },
+    "facing=west,map=true": { "model": "item_frame_map", "y": 270 },
+    "facing=south,map=true": { "model": "item_frame_map", "y": 180 },
+    "facing=north,map=true": { "model": "item_frame_map", "y": 0 }
+  }
+}
